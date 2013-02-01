@@ -10,9 +10,15 @@ Also, I used my FoxBox G20 and not my Raspberry to test the stuff, but it should
 I used the following stuff:
 
 http://www.adafruit.com/products/439
+
 http://learn.adafruit.com/tsl2561/overview
+
 https://github.com/adafruit/TSL2561-Arduino-Library
+
 http://quick2wire.com wrote the i2c lib that I'm using
+
 https://github.com/quick2wire/quick2wire-python-api
+
 http://www.acmesystems.it/FOXG20
+
 http://www.acmesystems.it/i2c
